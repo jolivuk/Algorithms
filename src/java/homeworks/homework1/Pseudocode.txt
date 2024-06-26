@@ -1,0 +1,10 @@
+Написать псевдокод и *по возможности блок схему для алгоритма: 
+сложить три числа и вывести сумму.
+
+START
+READ NUMBER1
+READ NUMBER2
+READ NUMBER3
+RESULT = NUMBER1 + NUMBER2 + NUMBER3
+PRINT RESULT
+END
