@@ -6,18 +6,7 @@ public class task1 {
 
 
     public static void main(String[] args) {
-        /*
-    task #1
 
-    START
-    READ number n
-    IF n == 1 THEN return
-    FOR i = 1, i <= n, i + 1
-        FOR j = 1; j <= n, j + 1
-            print "*"
-            BREAK
-    END
-     */
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();      // 1
         if (n == 1) return;             // 1
